@@ -1,0 +1,10 @@
+.categoryItem{
+    border: 1px solid black;
+    text-align: center;
+font-size: 20px;
+font-family: Inter;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 10px;
+}
